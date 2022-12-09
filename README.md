@@ -3,7 +3,7 @@
   <img align="center" alt="django-icon" height="80" width="60" src="https://user-images.githubusercontent.com/63022500/206715217-5cc8183f-81d8-4a79-be8b-630a71680a3f.svg">
   <img >
   
-  <img src="https://user-images.githubusercontent.com/63022500/206722045-94bafa7d-8c13-4dc9-bd87-b3dd7535725d.svg">
+  <img src="https://user-images.githubusercontent.com/63022500/206722352-1be33634-49fb-4503-978b-a2db50c3ab6b.png">
 
 </div>
 
