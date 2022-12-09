@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python-icon" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="django-icon" height="80" width="60" src="https://user-images.githubusercontent.com/63022500/206715217-5cc8183f-81d8-4a79-be8b-630a71680a3f.svg">
-  <img alt="django-icon" height="70" width="40" ypad="10" src="https://user-images.githubusercontent.com/63022500/206722352-1be33634-49fb-4503-978b-a2db50c3ab6b.png">
+  <img alt="django-icon" height="40" width="40" ypad="10" src="https://user-images.githubusercontent.com/63022500/206722352-1be33634-49fb-4503-978b-a2db50c3ab6b.csv">
 </div>
 
 <h3>BEM VINDO!</h3> 
