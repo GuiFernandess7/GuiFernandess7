@@ -5,5 +5,6 @@
  
 </div>
 
-<h3>BEM VINDO!</h3> 
+<h3>BEM VINDO! | WELCOME!</h3> 
 Aqui você encontrará projetos voltados para Desenvolvimento Web, Automação e Ciência de Dados em Python.
+Here you will find projects focused on Web Development, Automation and Data Science in Python.
