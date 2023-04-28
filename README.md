@@ -1,3 +1,7 @@
+<h3>BEM VINDO! | WELCOME!</h3> 
+Aqui você encontrará projetos voltados para Desenvolvimento Web, Automação e Ciência de Dados em Python.
+Here you will find projects focused on Web Development, Automation and Data Science in Python.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Python-icon" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="40" width="40" src="https://user-images.githubusercontent.com/63022500/206724462-55992e1c-cd69-4551-8ad9-d83c0b5e0ade.svg">
@@ -5,6 +9,4 @@
  
 </div>
 
-<h3>BEM VINDO! | WELCOME!</h3> 
-Aqui você encontrará projetos voltados para Desenvolvimento Web, Automação e Ciência de Dados em Python.
-Here you will find projects focused on Web Development, Automation and Data Science in Python.
+
