@@ -1,5 +1,5 @@
 <h3>BEM VINDO! | WELCOME!</h3> 
-Aqui você encontrará projetos voltados para Desenvolvimento Web, Automação e Ciência de Dados em Python.
+Aqui você encontrará projetos voltados para Desenvolvimento Web, Automação e Ciência de Dados em Python. <n/>
 Here you will find projects focused on Web Development, Automation and Data Science in Python.
 
 <div style="display: inline_block"><br>
