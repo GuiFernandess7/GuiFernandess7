@@ -5,8 +5,6 @@
 - I'm a Systems Analysis student and BackEnd development intern.
 - Proficient in Python, MySQL, and web development frameworks like Django and Flask.
 - Experienced in implementing REST APIs.
-- Passionate about technology and constantly learning new concepts and techniques.
-- Python programming has further fueled my enthusiasm for coding.
 - Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
 - Skilled in web automation using Selenium and Scraping.
 
