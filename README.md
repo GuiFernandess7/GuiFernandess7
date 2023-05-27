@@ -1,4 +1,4 @@
-<h3>BEM VINDO! | WELCOME!</h3> 
+<h3>WELCOME!</h3> 
 <hr />
 
 <div style="display: inline_block"><br>
