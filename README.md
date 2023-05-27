@@ -1,5 +1,4 @@
 <h3>WELCOME!</h3> 
-<hr />
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python-icon" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
