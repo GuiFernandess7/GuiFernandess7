@@ -1,6 +1,7 @@
 <h1 align="center">Welcome 👋 </h1>
 
 <h3 align="left">About me:</h3>
+
 - I'm a Systems Analysis student and BackEnd development intern.
 - Proficient in Python, MySQL, and web development frameworks like Django and Flask.
 - Experienced in implementing REST APIs.
