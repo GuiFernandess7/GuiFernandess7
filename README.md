@@ -18,7 +18,7 @@
     <hr/>
     <center>
         <img src= 'https://github-readme-streak-stats.herokuapp.com/?user=%20GuiFernandess7&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0' />
-    <center/>
+    </center>
 </div>
 </section>
 
