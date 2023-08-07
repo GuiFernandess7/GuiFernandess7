@@ -6,7 +6,7 @@
 - Proficient in Python, MySQL, and web development frameworks such as Django and Flask.
 - Experienced in implementing REST APIs.
 - Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
-- Skilled in web automation using Selenium and Scraping.
+- Skilled in creating react applications in typescript
 
 <h3 align="left">Languages and Tools:</h3>
 
