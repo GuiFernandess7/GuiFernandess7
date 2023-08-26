@@ -8,7 +8,7 @@
 - Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
 - Skilled in creating react applications in typescript
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Technologies and Tools:</h3>
 
 <section class="container">
 <div>
