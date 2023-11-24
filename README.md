@@ -3,7 +3,7 @@
 <h3 align="left">About me:</h3>
 
 - I'm a Software Enginnering student and BackEnd web development intern.
-- Proficient in Python, MySQL, and web development frameworks such as Django and Flask.
+- Proficient in Python, MySQL, and web development frameworks such as Django, Flask and FastAPI
 - Experienced in implementing REST APIs.
 - Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
 - Skilled in creating react applications in typescript
