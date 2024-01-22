@@ -1,4 +1,4 @@
-<h2 align="center">Welcome 👋 </h2>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
 * I'm a Software Enginnering student and BackEnd web development intern.
 * Proficient in Python, MySQL, and web development frameworks such as Django, Flask and FastAPI
