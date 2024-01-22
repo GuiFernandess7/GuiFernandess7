@@ -1,10 +1,10 @@
 <h2 align="center">Welcome 👋 </h2>
 
-- I'm a Software Enginnering student and BackEnd web development intern.
-- Proficient in Python, MySQL, and web development frameworks such as Django, Flask and FastAPI
-- Experienced in implementing REST APIs.
-- Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
-- Skilled in creating react applications in typescript
+* I'm a Software Enginnering student and BackEnd web development intern.
+* Proficient in Python, MySQL, and web development frameworks such as Django, Flask and FastAPI
+* Experienced in implementing REST APIs.
+* Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
+* Skilled in creating react applications in typescript
 
 <h3 align="left">Technologies and Tools:</h3>
 
