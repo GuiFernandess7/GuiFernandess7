@@ -1,4 +1,4 @@
-<h2 align="center">Welcome to my GitHub! 👋</h2>
+<h1 align="center">Welcome to my GitHub! 👋</h1>
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 * I'm a Software Enginnering student and BackEnd web development intern.
