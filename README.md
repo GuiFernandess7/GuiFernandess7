@@ -6,6 +6,7 @@
 * Experienced in implementing REST APIs.
 * Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
 * Skilled in creating react applications in typescript
+* Computer Vision and Machine Learning enthusiast
 
 <h3 align="left">Technologies and Tools:</h3>
 
