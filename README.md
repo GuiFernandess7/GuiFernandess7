@@ -1,12 +1,10 @@
 <h1 align="center">Welcome to my GitHub! 👋</h1>
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
-* I'm a Software Enginnering student and BackEnd web development intern.
-* Proficient in Python, MySQL, and web development frameworks such as Django, Flask and FastAPI
-* Experienced in implementing REST APIs.
-* Solid knowledge in data analysis using Pandas, NumPy, and Matplotlib.
-* Skilled in creating react applications in typescript
-* Computer Vision and Machine Learning enthusiast
+* I'm a software enginnering student and back-end development intern.
+* Skilled in Python, MySQL, and web development frameworks such as Django, Flask, and FastAPI.
+* Strong understanding and experience implementing REST APIs
+* Enthusiastic about Computer Vision and Machine Learning
 
 <h3 align="left">Technologies and Tools:</h3>
 
