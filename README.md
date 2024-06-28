@@ -38,5 +38,5 @@
 
 #
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&hide_progress=true&bg_color=000000
-)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&layout=pie&bg_color=000000)](https://github.com/GuiFernandess7/github-readme-stats)
+
