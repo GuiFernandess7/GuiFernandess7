@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub! 
 
-**`Backend Software Developer and Data Engineer Student`**
+**`Software Development and Data Engineering`**
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
