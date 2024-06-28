@@ -34,3 +34,5 @@
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+![GuiFernandess7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiFernandess7&show_icons=true&theme=radical)
