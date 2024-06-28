@@ -1,4 +1,7 @@
-# Welcome to my GitHub! 👋
+# 👋 Welcome to my GitHub! 
+
+**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 * I'm a software enginnering student and back-end development intern.
