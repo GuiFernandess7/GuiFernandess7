@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub! 
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Backend Software Developer and Data Engineer Student`**
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
