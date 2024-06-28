@@ -6,7 +6,7 @@
 - 💻 Skilled in Python, MySQL, and backend frameworks such as Django, Flask, and FastAPI.
 - 📚 Strong understanding and experience implementing REST APIs
 - 🔭 Enthusiastic about Computer Vision and Machine Learning
-- ⚡ Currently studying new tecnologies and concepts such as Golang, Rust and Data Engineering
+- ⚡ Currently studying new tecnologies and concepts such as Golang, Rust and ETL
 
 
 <p align="left">
