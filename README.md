@@ -38,4 +38,4 @@
 
 #
 
-![GuiFernandess7 GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiFernandess7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&hide_progress=true)
