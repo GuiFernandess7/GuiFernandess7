@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub! 
+## 👋 Welcome to my GitHub! 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
   
 **`Software Development and Data Engineering`**
