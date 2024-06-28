@@ -8,6 +8,7 @@
 * Enthusiastic about Computer Vision and Machine Learning
 * Currently studying new tecnologies and concepts such as Golang, Rust and Data Engineering
 
+
 <p align="left">
       <a href="https://www.linkedin.com/in/guilhermefsampaio/">
          <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
