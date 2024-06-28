@@ -2,11 +2,11 @@
   
 **`Software Development and Data Engineering`**
 
-* I'm a software enginnering student and back-end development intern.
-* Skilled in Python, MySQL, and backend frameworks such as Django, Flask, and FastAPI.
-* Strong understanding and experience implementing REST APIs
-* Enthusiastic about Computer Vision and Machine Learning
-* Currently studying new tecnologies and concepts such as Golang, Rust and Data Engineering
+- 😎 I'm a software enginnering student and back-end development intern.
+- 💻 Skilled in Python, MySQL, and backend frameworks such as Django, Flask, and FastAPI.
+- 📚 Strong understanding and experience implementing REST APIs
+- 🔭 Enthusiastic about Computer Vision and Machine Learning
+- ⚡ Currently studying new tecnologies and concepts such as Golang, Rust and Data Engineering
 
 
 <p align="left">
