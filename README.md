@@ -1,5 +1,4 @@
 ## 👋 Welcome to my GitHub! 
-<img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
   
 **`Software Development and Data Engineering`**
 
@@ -8,6 +7,8 @@
 * Strong understanding and experience implementing REST APIs
 * Enthusiastic about Computer Vision and Machine Learning
 * Currently studying new tecnologies and concepts such as Golang, Rust and Data Engineering
+
+<img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
   
 <h3 align="left">Technologies and Tools:</h3>
 
