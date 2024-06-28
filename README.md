@@ -1,8 +1,8 @@
-  # 👋 Welcome to my GitHub! 
-
+👋 Welcome to my GitHub! 
+<img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
+  
 **`Software Development and Data Engineering`**
 
-<img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 * I'm a software enginnering student and back-end development intern.
 * Skilled in Python, MySQL, and backend frameworks such as Django, Flask, and FastAPI.
