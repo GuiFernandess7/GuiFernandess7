@@ -2,7 +2,7 @@
   
 **`Software Development and Data Engineering`**
 
-- 😎 I'm a software engineer student and back-end developer with 3 years of experience.
+- 😎 I'm a software engineering student and back-end developer with three years of experience in project development.
 - 💻 Skilled in Python, MySQL, and backend frameworks such as Django, Flask, and FastAPI.
 - 📚 Strong understanding and experience implementing REST APIs
 - 🔭 Enthusiastic about Computer Vision and Machine Learning
