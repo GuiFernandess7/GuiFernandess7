@@ -10,7 +10,6 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 ## Technologies and Tools:
