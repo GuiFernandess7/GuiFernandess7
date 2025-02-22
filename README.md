@@ -1,13 +1,10 @@
 # 👋 Welcome! 
   
-**`Software Development and Data Engineering`**
-
-- 😎 I'm a software engineering student and back-end developer with three years of experience in project development and two years of professional experience.
-- 💻 Skilled in Python, MySQL, and backend frameworks such as Django, Flask, and FastAPI.
-- 📚 Strong understanding and experience implementing REST APIs
-- 🔭 Enthusiastic about Computer Vision and Machine Learning
-- ⚡ Currently studying new languages and tools such as Golang, Rust and Databricks.
-
+😎 I'm a software engineering student and back-end developer.
+💻 Skilled in Python, SQL, and backend frameworks such as Django, and FastAPI.
+📚 Strong understanding of and experience in implementing REST APIs.
+🔭 Enthusiastic about Computer Vision, Machine Learning, and ETL processes.
+⚡ Currently studying new languages such as Golang, Rust, and Databricks.
 
 <p align="left">
       <a href="https://www.linkedin.com/in/guilhermefsampaio/">
