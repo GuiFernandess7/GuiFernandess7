@@ -13,11 +13,6 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
-<p align="left">
-      <a href="https://www.linkedin.com/in/guilhermefsampaio/">
-         <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-</p>
-
 ## Technologies and Tools:
 
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
