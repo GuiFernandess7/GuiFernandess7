@@ -15,9 +15,13 @@
 </p>
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
-  
-## Technologies and Tools:
 
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&&layout=compact&langs_count=7&theme=dark"/>
+</p>
+
+## Technologies and Tools:
 
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
