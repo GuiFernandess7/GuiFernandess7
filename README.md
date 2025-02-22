@@ -6,11 +6,6 @@
 - 🔭 Enthusiastic about Computer Vision, Machine Learning, and ETL processes.
 - ⚡ Currently studying new languages such as Golang, Rust, and Databricks.
 
-<p align="left">
-      <a href="https://www.linkedin.com/in/guilhermefsampaio/">
-         <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-</p>
-
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 <p align = "center">
@@ -36,3 +31,8 @@
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 <br />
+
+<p align="left">
+      <a href="https://www.linkedin.com/in/guilhermefsampaio/">
+         <img alt="linkedin" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+</p>
