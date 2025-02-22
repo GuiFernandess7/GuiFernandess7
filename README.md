@@ -4,7 +4,7 @@
 - 💻 Skilled in Python, SQL, and backend frameworks such as Django, and FastAPI.
 - 📚 Strong understanding of and experience in implementing REST APIs.
 - 🔭 Enthusiastic about Computer Vision, Machine Learning, and ETL processes.
-- ⚡ Currently studying new languages such as Golang, Rust, and Databricks.
+- ⚡ Currently studying new languages such as Golang and Rust.
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
