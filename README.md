@@ -17,8 +17,8 @@
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=gruvbox&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=GuiFernandess7&&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ## Technologies and Tools:
