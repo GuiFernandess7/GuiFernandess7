@@ -6,6 +6,8 @@
 - 🔭 Enthusiastic about Computer Vision, Machine Learning, and ETL processes.
 - ⚡ Currently studying new languages such as Golang and Rust.
 
+This repository serves as a collection of projects and studies focused on computer vision, microservices, distributed systems, and programming logic, featuring my primary languages: Python, Golang, and Rust.
+
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
 <p align = "center">
