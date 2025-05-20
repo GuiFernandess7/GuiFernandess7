@@ -8,9 +8,9 @@
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
-//<p align = "center">
-//  <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=radical&line_height=27">
-//</p>
+<p align = "center">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=radical&line_height=27">
+</p>
 
 ## Technologies and Tools:
 
