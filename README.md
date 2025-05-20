@@ -1,6 +1,6 @@
 # 👋 Welcome! 
 
-- 🌾 Software Engineer with a total of 3 years of experience in the agricultural and medical technology sectors.
+- 🌾 Software Engineer with experience in the agricultural and medical technology sectors.
 - 💻 Skilled in Python, SQL, and backend frameworks such as Django, and FastAPI.
 - 📚 Solid knowledge and hands-on experience in designing and implementing RESTful APIs
 - 🔭 Passionate about Computer Vision, Machine Learning, and data processing through ETL pipelines.
