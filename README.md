@@ -1,12 +1,10 @@
 # 👋 Welcome! 
-  
-- 😎 I'm a software engineering student and back-end developer.
-- 💻 Skilled in Python, SQL, and backend frameworks such as Django, and FastAPI.
-- 📚 Strong understanding of and experience in implementing REST APIs.
-- 🔭 Enthusiastic about Computer Vision, Machine Learning, and ETL processes.
-- ⚡ Currently studying new languages such as Golang and Rust.
 
-This repository serves as a collection of projects and studies focused on computer vision, microservices, distributed systems, and programming logic, featuring my primary languages: Python, Golang, and Rust.
+- 🌾 Software Engineer with 3 years of experience in the agricultural and medical technology sectors.
+- 💻 Skilled in Python, SQL, and backend frameworks such as Django, and FastAPI.
+- 📚 Solid knowledge and hands-on experience in designing and implementing RESTful APIs
+- 🔭 Passionate about Computer Vision, Machine Learning, and data processing through ETL pipelines.
+- ⚡ Currently working on scalable and high-efficiency applications using Golang and Rust, targeting real market opportunities.
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
