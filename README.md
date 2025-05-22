@@ -3,7 +3,7 @@
 - 🌾 Software Engineer with experience in the agricultural and medical technology sectors.
 - 💻 Skilled in Python, SQL, and backend frameworks such as Django, and FastAPI.
 - 📚 Solid knowledge and hands-on experience in designing and implementing RESTful APIs
-- 🔭 Passionate about Computer Vision, Machine Learning, and data processing through ETL pipelines.
+- 🔭 Passionate about Computer Vision, Automation, and data processing through ETL pipelines.
 - ⚡ Currently working on scalable and high-efficiency applications using Golang and Rust, targeting real market opportunities.
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
