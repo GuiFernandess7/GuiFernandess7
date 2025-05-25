@@ -8,10 +8,6 @@
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=GuiFernandess7&&show_icons=true&theme=radical&line_height=27">
-</p>
-
 ## Technologies and Tools:
 
 <img align="left" alt="Linux" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
