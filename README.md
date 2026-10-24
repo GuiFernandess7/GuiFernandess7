@@ -1,10 +1,9 @@
-# 👋 Welcome! 
+👋 Backend Engineer — Python · Go · GCP
 
-- 🌾 Software Engineer with experience in the agricultural sector.
-- 💻 Skilled in Python, SQL, and backend frameworks such as Django and FastAPI.
-- 📚 Solid knowledge and hands-on experience in designing and implementing RESTful APIs.
-- 🔭 Passionate about Computer Vision, Automation, and data processing through ETL pipelines.
-- ⚡ Currently working on scalable applications using Golang and Rust, targeting real market opportunities.
+💻 Building APIs, event-driven pipelines, and cloud-native services
+🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery)
+🔗 Experience integrating AI/OCR pipelines and geospatial data processing
+📦 Currently deepening expertise in distributed systems and software architecture
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
