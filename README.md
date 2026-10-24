@@ -1,4 +1,4 @@
-👋 ### Software Engineer — Python · Go · GCP
+### 👋 Software Engineer — Python · Go · GCP
 
 * **💻 Building APIs, event-driven pipelines, and cloud-native services**
 * **🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery)**
