@@ -1,9 +1,9 @@
 👋 Software Engineer — Python · Go · GCP
 
-* ** 💻 Building APIs, event-driven pipelines, and cloud-native services **
-* ** 🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery) **
-* ** 🔗 Experience integrating AI/OCR pipelines and geospatial data processing **
-* **  📦 Currently deepening expertise in distributed systems and software architecture **
+* **💻 Building APIs, event-driven pipelines, and cloud-native services**
+* **🌩️ Hands-on with GCP (Cloud Run, Pub/Sub, Cloud Functions, BigQuery)**
+* **🔗 Experience integrating AI/OCR pipelines and geospatial data processing**
+* ** 📦 Currently deepening expertise in distributed systems and software architecture**
 
 <img width="100%" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp"/>
 
